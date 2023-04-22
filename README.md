@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working **@synnefo.in**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I'm expanding my horizons in **Cyber Security**
 
 - 💬 Ask me about **Linux, Bash, Html**
 
-- 📫 How to reach me **pointbreaklogin@gmail.com**
+- 📫 How can you get a hold of me? **pointbreaklogin@gmail.com**
 
 - ⚡ Fun fact **⚡⚡Nobody has anything to hide because nobody has anything to show⚡⚡ **
 
