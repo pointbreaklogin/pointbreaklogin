@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm pointbreaklogin</h1>
-<h3 align="center">A passionate Linux System Administrator from India</h3>
+<h1 align="center">Hy 👋, I'm pointbreaklogin</h1>
+<h3 align="center"> A young-dumb,  😇 Linux Admin from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointbreaklogin&label=Profile%20views&color=0e75b6&style=flat" alt="pointbreaklogin" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pointbreaklogin@gmail.com**
 
-- ⚡ Fun fact **In the world with out walls and fences, who needs What and What?**
+- ⚡ Fun fact **⚡⚡Nobody has anything to hide because nobody has anything to show⚡⚡ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
