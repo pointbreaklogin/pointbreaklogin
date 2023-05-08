@@ -1,0 +1,46 @@
+1. Set up an Alma linux server with following requirements:
+	a.Install and configure latest version of alma linux
+	b.configure static ip addresses
+	c.enable ssh access for remote administration
+	d.Install and configure web server (httpd)
+	e.set up firewall rules to allow ssh and httpd traffic
+
+2.User and permission management
+	a.create a user with the username "testuser" , shell as bash, home directory at /home/user1 and assign them a password
+	b.Grant "testuser" sudo privileges
+	c.Change the ownership of the directory named "data" to "testuser" and make sure only owner has read, write ans execute permissions
+	d Create a group named "developers" and add "testuser" to that group
+	e.Set the permissions of a file named "script.sh" to allow read and execute permissions for the owner and group only.
+
+3. Symbolic Links
+	a.Create a symbolic link named "mylink" that points to a file named "myfile.txt" in the current directory.
+	b.Verify that the link works by accessing the contents of "myfile.txt" through "mylink".
+
+4. Create hard links 
+	a.Create a file named "original.txt" and add some content to it.
+	b.Create a hard link named "link1.txt" to "original.txt".
+	c.Verify that both "original.txt" and "link1.txt" have the same content.
+	d.Modify the content of "original.txt" and confirm that the changes are reflected in "link1.txt".
+
+5.Archiving and Compression with tar:
+	a.Create a tar archive named "backup.tar" containing all the files and directories in a folder named "/etc/ssh/".
+	b.Extract the contents of "backup.tar" into a directory named "restore" preserving the directory structure.
+	c.Compress the "backup.tar" archive using gzip to create a file named "backup.tar.gz".
+	d.Extract the contents of the compressed archive "backup.tar.gz" into a directory named "/restore" preserving the directory structure.
+
+6. Configure server for secure remote access
+	a.Generate SSH key pair for passwordless authentication
+	b.Disable password-based authentication for SSH
+	c.Configure SSH to listen on a non-default port
+	d.Test the remote access by connecting using the SSH key pair 
+
+7. Implement a new disk partitioning and file system management
+	a.Add new harddisk to server
+	b.Partition the disk using command line tools (parted, minimum 2 partition needed)
+	c.create file system (ext4 or XFS) on partitions
+	d.mount the new file system to a directory
+	e.Configure the system to mount the partition automatically at boot
+
+8. Set up linux based network file server
+	a.install and configure samba or NFS for file sharing
+
