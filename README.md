@@ -27,8 +27,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pointbreaklogin&show_icons=true&locale=en&layout=compact" alt="pointbreaklogin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pointbreaklogin&show_icons=true&locale=en" alt="pointbreaklogin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pointbreaklogin&" alt="pointbreaklogin" /></p>
