@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working **@synnefo.in**
 
-- 🌱 I'm expanding my horizons in **Linux Administration & Security**
+- 🌱 I'm expanding my horizons in **Linux Administration, Automation and Security**
 
-- 💬 Ask me about **Linux, Bash, Html.. **
+- 💬 Ask me about **Linux, Bash, Ansible, Html.. **
 
 - 📫 How can you get a hold of me? => **pointbreaklogin@gmail.com**
 
