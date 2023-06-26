@@ -1,5 +1,5 @@
-<h1 align="center">Hy 👋, I'm pointbreaklogin</h1>
-<h3 align="center"> A young-dumb,  😇 Linux Admin from India </h3>
+<h1 align="center">Hy 👋, I'm pointbreak </h1>
+<h3 align="center"> A young-dumb, 😇 Linux thinker from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointbreaklogin&label=Profile%20views&color=0e75b6&style=flat" alt="pointbreaklogin" /> </p>
 
