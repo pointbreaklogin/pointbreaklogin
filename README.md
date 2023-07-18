@@ -2,11 +2,11 @@
 <h3 align="center"> A young-dumb, 😇 Linux thinker from India </h3>
 
 
-- 🔭 I’m currently working **@synnefo.in**
+- 🔭 I’m currently working **@ ZmRuIIVZ62xxg3/L+ZRF2vVxtPbsy9IYSozRMncEUg4=**
 
-- 🌱 I'm expanding my horizons in **Linux Administration, Automation and Security**
+- 🌱 I'm expanding my horizons in **Linux Administration, Automation and ... **
 
-- 💬 Ask me about **Linux, Bash, Ansible, Html.. **
+- 💬 Ask me about **Linux, Bash, Ansible ... **
 
 - 📫 How can you get a hold of me? => **pointbreaklogin@gmail.com**
 
