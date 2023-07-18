@@ -6,11 +6,9 @@
 
 - 🌱 I'm expanding my horizons in **Linux Administration, Automation and ... **
 
-- 💬 Ask me about **Linux, Bash, Ansible ... **
-
 - 📫 How can you get a hold of me? => **pointbreaklogin@gmail.com**
 
-- ⚡ Fun fact **⚡⚡Nobody has anything to hide because nobody has anything to show⚡⚡ **
+- ⚡ Fun fact **⚡If you change nothing, nothing changes.⚡ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
