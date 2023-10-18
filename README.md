@@ -1,5 +1,5 @@
 <h1 align="center">Hy 👋, I'm pointbreak </h1>
-<h3 align="center"> A young-dumb, 😇 Linux thinker from India </h3>
+<h3 align="center"> A young-dumb, 😇 Linux thinker from earth. </h3>
 
 
 - 🔭 I’m currently working **@ ZmRuIIVZ62xxg3/L+ZRF2vVxtPbsy9IYSozRMncEUg4=**
