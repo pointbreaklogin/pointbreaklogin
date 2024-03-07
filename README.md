@@ -6,7 +6,7 @@
 
 - 🌱 I'm exploring  **Linux, Automation, Networking, DevOps **
 
-- 📫 Find me ? => **pointbreaklogin@gmail.com, linkedin.com/in/abhiram33919 **
+- 📫 Find me ? => **pointbreaklogin@gmail.com** , **linkedin.com/in/abhiram33919**
 
 - ⚡ Fun fact **⚡If you change nothing, nothing changes.⚡ **
 
