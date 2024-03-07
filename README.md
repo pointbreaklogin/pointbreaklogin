@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **⚡If you change nothing, nothing changes.⚡ **
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: linkedin.com/in/abhiram33919 </h3>
 <p align="left">
 </p>
 
